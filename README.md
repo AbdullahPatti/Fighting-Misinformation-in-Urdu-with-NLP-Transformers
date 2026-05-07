@@ -102,8 +102,14 @@ pip install pandas numpy torch matplotlib seaborn scikit-learn \
 ```
 urdu-fake-news-detection/
 │
-├── UrduFakeNews.ipynb         # Notebook 1: EDA, preprocessing, Exp 1
-├── UrduFakeNews2.ipynb        # Notebook 2: Cross-domain, baselines, analysis
+├── Code Files/
+│   ├── UrduFakeNews.py       # Notebook 1: EDA, preprocessing, Exp 1
+│   └── UrduFakeNews2.py       # Python source code
+│
+├── Jupyter/
+│   ├── UrduFakeNews.ipynb         # Notebook 1: EDA, preprocessing, Exp 1
+│   └── UrduFakeNews2.ipynb        # Notebook 2: Cross-domain, baselines, analysis
+│
 └── README.md
 ```
 
@@ -124,6 +130,3 @@ Pull requests are welcome! For major changes, please open an issue first to disc
 
 ---
 
-## 📄 License
-
-This project is licensed under the MIT License.
